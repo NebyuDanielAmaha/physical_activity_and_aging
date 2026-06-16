@@ -1,8 +1,8 @@
 # NHANES 2005-2006 Biological Aging & Physical Activity Intensity
 
-**Author:** [Your Name]  
-**Affiliation:** [Your University/Department]  
-**Project Status:** Complete / Manuscript in Preparation
+**Author:** Nebyu Amaha
+**Affiliation:** Mekelle University
+**Project Status:** Manuscript in Preparation
 
 ## 📖 Overview
 
