@@ -18,4 +18,8 @@ We utilize three distinct, validated biological aging algorithms to ensure robus
 
 **Key Finding:** Higher peak walking cadence (intensity) is associated with lower biological age acceleration, independent of total daily step count. The relationship is consistent across age groups and is partially non-linear.
 
+<a href="https://creativecommons.org" target="_blank">
+  <img src="https://creativecommons.org" alt="License CC BY 4.0" width="88" height="31">
+</a>
+
 ---
